@@ -1,1 +1,45 @@
+.dropdown-item:hover{
+    background: linear-gradient(45deg,black,black);
+    color: white !important;
+    box-shadow: 0 0 5px black;
+}
+.dropdown-item{
+    background: linear-gradient(45deg,black,darkslategray);
+    color: white !important;
+    box-shadow: 0 0 5px black;
+}
+.bg-teal , .btn-teal{
+    background-color: #2a6f6f !important;
+}
+.text-teal{
+    color: #2a6f6f !important;
+}
+.bg-primary,.btn-primary{
+    background: linear-gradient(45deg,darkslategray,cornflowerblue);
+}
+.bg-secondary ,.btn-secondary{
+    background: linear-gradient(45deg,darkslategray,purple);
+}
+.bg-success,.btn-success{
+    background: linear-gradient(45deg,darkslategray,limegreen);
+}
+.bg-warning ,.btn-warning{
+    background: linear-gradient(45deg,darkslategray,orange);
+}
+.bg-danger ,.btn-danger{
+    background: linear-gradient(45deg,darkslategray,red);
+}
 
+.bg-light-blue{
+    background-color: #99f3f7 !important;
+}
+.bg-light-green{
+    background-color: #bef1c0 !important;
+}
+.bg-light-orange{
+    background-color: #eec672 !important;
+}
+.p-image{
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
